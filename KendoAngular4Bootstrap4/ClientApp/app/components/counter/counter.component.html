@@ -4,10 +4,7 @@
 
 <p>Current count: <strong>{{ currentCount }}</strong></p>
 
-<!--<button kendoButton (click)="incrementCounter">Increment</button>
-<button kendoButton (click)="decrementCounter()">Decrement</button>-->
-
-<button kendoButton (click)="incrementCounter()" >Increment</button>
-<button kendoButton (click)="decrementCounter()">Decrement</button>
+<button kendoButton (click)="incrementCounter()" [primary]="true" >KendoUI button: Increment</button>
+<button kendoButton (click)="decrementCounter()">KendoUI button: Decrement</button>
 
 

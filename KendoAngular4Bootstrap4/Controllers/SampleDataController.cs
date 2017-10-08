@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HofmannSportsStore2.Controllers
+namespace KendoAngular4Bootstrap4.Controllers
 {
     [Route("api/[controller]")]
     public class SampleDataController : Controller

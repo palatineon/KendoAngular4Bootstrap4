@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace HofmannSportsStore2
+namespace KendoAngular4Bootstrap4
 {
     public class Startup
     {

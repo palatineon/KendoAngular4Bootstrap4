@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace HofmannSportsStore2
+namespace KendoAngular4Bootstrap4
 {
     public class Program
     {
